@@ -1,6 +1,9 @@
+*~
+*.egg-info
 *.pyc
 *.pyo
-*.sqp
-*~
+*.sqlite
 .coverage
+.tox
 htmlcov
+dist
